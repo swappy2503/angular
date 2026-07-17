@@ -1,1 +1,2 @@
 hi. this is txt file.txt
+this is to test commands.
